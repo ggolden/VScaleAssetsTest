@@ -10524,7 +10524,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   range: 3000
   segmentLength: 10
-  sebmentPrefab: {fileID: 4335178118231565485, guid: d470aa1c5111d4383985176113242a5b, type: 3}
+  segmentPrefab: {fileID: 4335178118231565485, guid: d470aa1c5111d4383985176113242a5b, type: 3}
 --- !u!4 &311381716
 Transform:
   m_ObjectHideFlags: 0
